@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/bin/Debug/net7.0/Case34
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/bin/Debug/net7.0/Case34.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/bin/Debug/net7.0/Case34.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/bin/Debug/net7.0/Case34.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/bin/Debug/net7.0/Case34.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/refint/Case34.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/Case34.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/C-5/Case34/obj/Debug/net7.0/ref/Case34.dll
